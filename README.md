@@ -56,12 +56,11 @@ Each folder contains assignments and practice projects for the corresponding uni
 - Titanic Data Analysis (Python, pandas)  
   → Data wrangling, feature analysis, and survival insights
 
-- Retail Sales Analysis (Python)  
-  → Exploratory analysis and business insights generation
+- RetailX Sales Analysis (Excel)  
+  → PivotTables, What-If analysis, and dashboard insights
 
-- Library Systems Data Structures (Python)  
-  → Implementation of core data structures and logic
-
+- Employee Data Analysis (SQL)  
+  → Joins, CTEs, and business reporting queries
 ---
 
 ## Focus
