@@ -50,6 +50,9 @@ Each folder contains assignments and practice projects for the corresponding uni
 
 ## Selected Coursework
 
+- **Healthcare Analytics (Tableau)** — Multi-source dashboard for treatment outcome analysis  
+  → [View interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/wonseok.lee8183/viz/HealthcareAnalytics-Wonseok/FinalDashboard)
+  
 - Housing Market Insights for Growth (Python, pandas)  
   → Data cleaning, trend analysis, and KPI extraction
 
